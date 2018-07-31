@@ -32,3 +32,10 @@ Entidades HTML
 &hearts:    ♥
 &lt:        <
 &gt:        >
+
+reset.css - benefícios:
+=======================
+
+    Uma base sólida para desenvolver nosso próprio layout
+    Eliminar diferenças de renderização entre navegadores
+    Correção de alguns bugs presentes em navegadores específicos
