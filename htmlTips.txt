@@ -1,4 +1,4 @@
-Continuar:  aula 5 exercício 8
+Continuar:  aula 7 vídeo 1
 
 TAGS
 ====
@@ -35,6 +35,9 @@ Entidades HTML
 
 reset.css - benefícios:
 =======================
+
+    reset       Erick Meyer (1kb)
+    normalize   Nicolas Gallagher e Jonathan Neal (7kb)
 
     Uma base sólida para desenvolver nosso próprio layout
     Eliminar diferenças de renderização entre navegadores
