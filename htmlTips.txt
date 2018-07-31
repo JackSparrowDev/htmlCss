@@ -13,6 +13,15 @@ TAGS
 <section>   parte/seção de uma página ou texto
 
 
+Propriedade:    Controla:
+============    =========
+
+margin          o espaço entre elementos.
+padding         o espaço entre o conteúdo de um elemento e sua borda.
+width e height  apenas o tamanho de um elemento, e não afetam o espaçamento entre esse elemento e seus vizinhos.
+box-sizing      apenas como a largura e a altura de um elemento deve ser calculada.
+line-height     apenas a altura entre as linhas de texto da página, não afetando a distância entre elementos.
+
 Entidades HTML
 ==============
 
